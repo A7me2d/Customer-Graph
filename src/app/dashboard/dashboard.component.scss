@@ -1,0 +1,30 @@
+
+#Card{
+    padding-top: 40px !important;
+    // background-color: #171f28 !important;
+}
+#dds{
+    padding-top: 50px !important;
+    --bs-gutter-x: 0rem !important;
+    margin-left: 20px;
+}
+
+#fafa{
+    --bs-gutter-x: 0rem !important;
+}
+
+
+#section{
+    height: auto;
+    // height: 100vh;
+    background: linear-gradient(90deg, rgba(40,44,43,1) 16%, rgb(33, 52, 80) 48%, rgb(2, 70, 90) 100%);
+}
+
+.card-title{
+    color: rgb(4, 84, 84);
+    text-align: center;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.874);
+}
